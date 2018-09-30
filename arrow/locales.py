@@ -951,6 +951,7 @@ class BrazilianPortugueseLocale(PortugueseLocale):
     names = ['pt_br']
 
     past = 'faz {0}'
+    future = 'daqui a {0}'
 
 
 class TagalogLocale(Locale):
